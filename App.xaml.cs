@@ -19,7 +19,6 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		// MainPage = new AppShell();
             DefineRautes();
 
             if (DeviceInfo.Idiom == DeviceIdiom.Phone)

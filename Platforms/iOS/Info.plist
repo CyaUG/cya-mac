@@ -28,10 +28,8 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
-
 		<key>CFBundleShortVersionString</key>
 		<string>2.0.0</string>
-
 		<key>CFBundleVersion</key>
 		<string>40.0</string>
 		<key>MinimumOSVersion</key>
@@ -42,7 +40,6 @@
 		<string>CYA</string>
 		<key>CFBundleIdentifier</key>
 		<string>com.wagaana.cya</string>
-		
 		<key>NSLocationAlwaysUsageDescription</key>
 		<string>Can we use your location at all times?</string>
 		<key>NSLocationWhenInUseUsageDescription</key>
@@ -75,15 +72,10 @@
 		<array>
 			<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 		</array>
-
-
-
-
 		<key>UIRequiresFullScreen</key>
 		<true/>
 		<key>ITSAppUsesNonExemptEncryption</key>
 		<false/>
-
 		<key>LSSupportsOpeningDocumentsInPlace</key>
 		<true/>
 		<key>UIFileSharingEnabled</key>
