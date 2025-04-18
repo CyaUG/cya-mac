@@ -299,11 +299,6 @@
                     </StackLayout>
                 </StackLayout>
 
-                <BoxView
-                        AbsoluteLayout.LayoutBounds="0.5, 0.5, -1, -1"
-                        AbsoluteLayout.LayoutFlags="PositionProportional"
-                        BackgroundColor="Transparent"/>
-
                 <ActivityIndicator
                         x:Name="ActivityIndicator"
                         AbsoluteLayout.LayoutBounds="0.5, 0.5, -1, -1"
