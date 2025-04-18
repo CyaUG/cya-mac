@@ -260,7 +260,7 @@ namespace Youth.Utils
         public static Task<string> GetAuthTocken()
         {
             // Return the Task<string>
-            return SecureStorage.GetAsync(Constants.AUTH_TOCKEN_REF);
+            return SecureStorage.Default.GetAsync(Constants.AUTH_TOCKEN_REF);
         }
 
         public static string GetYoutubeId(string messageText)

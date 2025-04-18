@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ugamusic/Desktop/workspace/Youth/bin/Release/net8.0-ios/ios-arm64/Youth.app/Youth'
+relocations:     []
+...

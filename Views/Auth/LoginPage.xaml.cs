@@ -11,9 +11,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
-
 namespace Youth.Views.Auth
 {
 
@@ -67,6 +64,7 @@ namespace Youth.Views.Auth
                     ActivityIndicator.IsRunning = true;
 
                     JObject obj = await UserAccount.LoginAsync(EmailEntry.Text, PasswordEntry.Text);
+
                     UserAccount userAccount = obj.ToObject<UserAccount>();
                     Console.WriteLine(userAccount.access_token);
 
@@ -76,7 +74,7 @@ namespace Youth.Views.Auth
                         await DisplayAlert("Error", "Wrong password OR Email", "OKAY");
                         return;
                     }
-                    await SecureStorage.SetAsync(Constants.AUTH_TOCKEN_REF, userAccount.access_token);
+                    await SecureStorage.Default.SetAsync(Constants.AUTH_TOCKEN_REF, userAccount.access_token);
 
                     await Shell.Current.GoToAsync("../..");
                     ActivityIndicator.IsRunning = false;
@@ -91,6 +89,7 @@ namespace Youth.Views.Auth
             }
             catch (Exception ex)
             {
+                        await DisplayAlert("Error", ex.ToString(), "OKAY");
                 await DisplayAlert("Error", "Something Went Wrong, Try Again", "OKAY");
                 ActivityIndicator.IsRunning = false;
             }

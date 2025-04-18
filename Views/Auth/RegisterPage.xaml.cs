@@ -81,7 +81,7 @@ namespace Youth.Views.Auth
                             await DisplayAlert("Error", "Invalid Information, Try Again", "OKAY");
                             return;
                         }
-                        await SecureStorage.SetAsync(Constants.AUTH_TOCKEN_REF, mAccountRequestResponse.access_token);
+                        await SecureStorage.Default.SetAsync(Constants.AUTH_TOCKEN_REF, mAccountRequestResponse.access_token);
 
                         await Shell.Current.GoToAsync("../..");
                         ActivityIndicator.IsRunning = false;

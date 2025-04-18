@@ -29,9 +29,9 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
 		<key>CFBundleShortVersionString</key>
-		<string>2.0.0</string>
+		<string>2.0.1</string>
 		<key>CFBundleVersion</key>
-		<string>40.0</string>
+		<string>41.0</string>
 		<key>MinimumOSVersion</key>
 		<string>11.0</string>
 		<key>CFBundleName</key>
@@ -88,6 +88,9 @@
 			<key>NSAllowsArbitraryLoads</key>
 			<true/>
 		</dict>
+
+		<key>UILaunchStoryboardName</key>
+		<string>MauiSplashScreen</string>
 
 		<key>CFBundleDocumentTypes</key>
 		<array>

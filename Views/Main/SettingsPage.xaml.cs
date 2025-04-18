@@ -38,7 +38,7 @@ namespace Youth.Views.Main
         {
             try
             {
-                SecureStorage.RemoveAll();
+                SecureStorage.Default.RemoveAll();
                 _viewModel.OnAppearing();
             }
             catch (Exception ex)

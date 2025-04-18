@@ -78,6 +78,10 @@
 /Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/zxing.dll
 /Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/ZXing.Net.MAUI.dll
 /Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/ZXing.Net.MAUI.Controls.dll
+/Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 /Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Youth.dll
 /Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Microsoft.CSharp.dll
 /Users/ugamusic/Desktop/workspace/Youth/bin/Debug/net8.0-ios/iossimulator-x64/publish/../Youth.app/Microsoft.VisualBasic.Core.dll

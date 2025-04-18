@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AssembliesToAOT Include="obj/Release/net8.0-ios/ios-arm64/linked/aot-instances.dll">
+      <Arguments>--aot=mtriple=arm64-ios data-outfile=obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.aotdata static asmonly dedup-include=aot-instances.dll direct-icalls interp full readonly-value=ObjCRuntime.Runtime.Arch=i4/0 nodebug dwarfdebug llvm-path=/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.ios-arm64/8.0.14/Sdk/../tools outfile=obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s llvm-outfile=obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.llvm.o</Arguments>
+      <ProcessArguments>--debug --llvm -O=gsharedvt</ProcessArguments>
+      <Abi>ARM64+LLVM</Abi>
+      <Arch>arm64</Arch>
+      <AOTData>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.aotdata</AOTData>
+      <AOTAssembly>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.s</AOTAssembly>
+      <LLVMFile>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.llvm.o</LLVMFile>
+      <ObjectFile>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/aot-instances.dll.o</ObjectFile>
+      <IsDedupAssembly>True</IsDedupAssembly>
+    </_AssembliesToAOT>
+    <_AssembliesToAOT Include="obj/Release/net8.0-ios/ios-arm64/linked/System.Private.CoreLib.dll">
+      <Arguments>--aot=mtriple=arm64-ios data-outfile=obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.aotdata static asmonly dedup-skip direct-icalls interp readonly-value=ObjCRuntime.Runtime.Arch=i4/0 nodebug dwarfdebug llvm-path=/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.ios-arm64/8.0.14/Sdk/../tools outfile=obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.s llvm-outfile=obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.llvm.o</Arguments>
+      <ProcessArguments>--debug --llvm</ProcessArguments>
+      <Abi>ARM64+LLVM</Abi>
+      <Arch>arm64</Arch>
+      <AOTData>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.aotdata</AOTData>
+      <AOTAssembly>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.s</AOTAssembly>
+      <LLVMFile>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.llvm.o</LLVMFile>
+      <ObjectFile>obj/Release/net8.0-ios/ios-arm64/nativelibraries/aot-output/arm64/System.Private.CoreLib.dll.o</ObjectFile>
+    </_AssembliesToAOT>
+  </ItemGroup>
+</Project>

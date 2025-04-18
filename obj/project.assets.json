@@ -3290,7 +3290,7 @@
         }
       }
     },
-    "net8.0-android34.0/ios-arm64": {
+    "net8.0-android34.0/iossimulator-x64": {
       "CommunityToolkit.Common/8.3.2": {
         "type": "package",
         "compile": {
@@ -7523,7 +7523,7 @@
         }
       }
     },
-    "net8.0-ios18.0/ios-arm64": {
+    "net8.0-ios18.0/iossimulator-x64": {
       "CommunityToolkit.Common/8.3.2": {
         "type": "package",
         "compile": {
@@ -9385,7 +9385,7 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/ios-arm64": {
+    "net8.0-maccatalyst18.0/iossimulator-x64": {
       "CommunityToolkit.Common/8.3.2": {
         "type": "package",
         "compile": {
@@ -16070,7 +16070,7 @@
       }
     },
     "runtimes": {
-      "ios-arm64": {
+      "iossimulator-x64": {
         "#import": []
       }
     }

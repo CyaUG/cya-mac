@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign F0E880EAC95B4D4DB5861C32284FB9B9252A1C83 --entitlements /Users/ugamusic/Desktop/workspace/Youth/obj/Release/net8.0-ios/ios-arm64/Entitlements.xcent /Users/ugamusic/Desktop/workspace/Youth/bin/Release/net8.0-ios/ios-arm64/Youth.app

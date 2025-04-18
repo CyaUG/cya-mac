@@ -84,7 +84,7 @@ public partial class BaseViewModel : ObservableObject, INotifyPropertyChanged
 
     protected async void UpdateAuthStatus()
     {
-        var access_token = await SecureStorage.GetAsync(Constants.AUTH_TOCKEN_REF);
+        var access_token = await SecureStorage.Default.GetAsync(Constants.AUTH_TOCKEN_REF);
 
         if (access_token != null)
         {
