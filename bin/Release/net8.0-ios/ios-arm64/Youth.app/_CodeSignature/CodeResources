@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zIM5O8UAH6vxeBOJOUuG3W3nniU=
+		SCgtnkuFycbTd9+l/sxDourXuiE=
 		</data>
 		<key>MauiInfo.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>MauiSplash.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		DMtiqli6ihCY65oHuGeV19FYzUQ=
+		KnC7xcyFErKHLSiM9b0VrycMYRk=
 		</data>
 		<key>MauiSplash.storyboardc/Info.plist</key>
 		<data>
@@ -882,7 +882,7 @@
 		</data>
 		<key>Youth.dll</key>
 		<data>
-		BXR9ZtgIzBc2s37TfjTT9irVv7g=
+		iwA2Y3ATrnmWRpphWdPuiSyzHkw=
 		</data>
 		<key>ZXing.Net.MAUI.Controls.dll</key>
 		<data>
@@ -958,7 +958,7 @@
 		</data>
 		<key>archived-expanded-entitlements.xcent</key>
 		<data>
-		4XajP1NQmhiPDwroA01RfQMTRSU=
+		z52n5fLK+y2KpQmm90I73chftJY=
 		</data>
 		<key>arrow.png</key>
 		<data>
@@ -1648,6 +1648,18 @@
 		<data>
 		OFIbI33fXdqDblLE/xDbopGOfE8=
 		</data>
+		<key>splash_5DE6BE5009A5370B912ABD98ABB9685AAC60D8FDE6AC4DBE51374B1298F8147B.png</key>
+		<data>
+		4i43QLWleQtoJ+oTB8cPJ7pCjUA=
+		</data>
+		<key>splash_5DE6BE5009A5370B912ABD98ABB9685AAC60D8FDE6AC4DBE51374B1298F8147B@2x.png</key>
+		<data>
+		klBxHDOKXfQ64FmmlwblwcHqCR0=
+		</data>
+		<key>splash_5DE6BE5009A5370B912ABD98ABB9685AAC60D8FDE6AC4DBE51374B1298F8147B@3x.png</key>
+		<data>
+		7X/K5LHcdO1mpLdBAy2GpUZEIOg=
+		</data>
 		<key>splash_AE9BFF04220EA5AA980491A0CF12A3044C22063F5B270A66598CB1350C6DBAA3.png</key>
 		<data>
 		df0G0CiwMmyfnR8JfQFaccriZAk=
@@ -1832,7 +1844,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ozONOHn+BxyORuT7bJhCmBA7DrKFL2VVWeUhkL1Hc4=
+			a2gG5++gQC9LXhgGRFu10nnIS+X0B17AgiC6nMMZF44=
 			</data>
 		</dict>
 		<key>MauiSplash.storyboardc/Info.plist</key>
@@ -3274,7 +3286,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xbLlW2QaiYR7I9J1N3inik83solw//yzSuvB0uQQSQ8=
+			tQXfFf5ILH79MBC1v8XzdiLyD6yBhXDplbHKMReVJ+M=
 			</data>
 		</dict>
 		<key>ZXing.Net.MAUI.Controls.dll</key>
@@ -3407,7 +3419,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w4EhRdD/I7E7ieyI0wPyn87gFT9asDZVGoSMlpy3HHE=
+			ADkRnBYNXiIQXiOg+nN+7DxKmnevLVD8RQRxHhq+q1o=
 			</data>
 		</dict>
 		<key>arrow.png</key>
@@ -4612,6 +4624,27 @@
 			<key>hash2</key>
 			<data>
 			Y6Jc15xWMMQ+SbVXbZYrbKbCMFdA5J6OvJBihUouLYE=
+			</data>
+		</dict>
+		<key>splash_5DE6BE5009A5370B912ABD98ABB9685AAC60D8FDE6AC4DBE51374B1298F8147B.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			22bPBIdT2ZFHD6URGLA0QZgM+q3WvKz63MvmCS92+ts=
+			</data>
+		</dict>
+		<key>splash_5DE6BE5009A5370B912ABD98ABB9685AAC60D8FDE6AC4DBE51374B1298F8147B@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BusxMW6cADMzcdyRM859HIazxCQRid256bkQJs/WTLM=
+			</data>
+		</dict>
+		<key>splash_5DE6BE5009A5370B912ABD98ABB9685AAC60D8FDE6AC4DBE51374B1298F8147B@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5c2eIeEOojPg8x3v4U6szqrclzMkP9j2lZ6GvrwqpuI=
 			</data>
 		</dict>
 		<key>splash_AE9BFF04220EA5AA980491A0CF12A3044C22063F5B270A66598CB1350C6DBAA3.png</key>

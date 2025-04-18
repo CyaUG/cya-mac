@@ -29,9 +29,9 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
 		<key>CFBundleShortVersionString</key>
-		<string>2.0.1</string>
+		<string>2.0.3</string>
 		<key>CFBundleVersion</key>
-		<string>41.0</string>
+		<string>43.0</string>
 		<key>MinimumOSVersion</key>
 		<string>11.0</string>
 		<key>CFBundleName</key>

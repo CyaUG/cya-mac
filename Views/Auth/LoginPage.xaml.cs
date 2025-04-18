@@ -89,7 +89,6 @@ namespace Youth.Views.Auth
             }
             catch (Exception ex)
             {
-                        await DisplayAlert("Error", ex.ToString(), "OKAY");
                 await DisplayAlert("Error", "Something Went Wrong, Try Again", "OKAY");
                 ActivityIndicator.IsRunning = false;
             }

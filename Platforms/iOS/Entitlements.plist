@@ -11,7 +11,7 @@
     <key>aps-environment</key>
     <string>production</string>
 
-    <key>com.apple.developer.default-data-protection</key>
-    <string>NSFileProtectionComplete</string>
+    <!-- <key>com.apple.developer.default-data-protection</key>
+    <string>NSFileProtectionCompleteUntilFirstUserAuthentication</string> -->
 </dict>
 </plist>

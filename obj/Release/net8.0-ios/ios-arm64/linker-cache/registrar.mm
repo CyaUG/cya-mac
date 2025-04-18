@@ -80129,7 +80129,7 @@ exception_handling:
 
 	static const MTAssembly __xamarin_registration_assemblies [] = {
 		{ "aot-instances", "42b48a5c-01c3-4445-a2a8-9e9de4943073" }, 
-		{ "Youth", "e18b95ae-9b26-43e6-a133-bc1f173deac5" }, 
+		{ "Youth", "0ec28d8c-6936-4931-95bd-731882efa3b3" }, 
 		{ "CommunityToolkit.Common", "4fd5446d-5f04-485c-bd12-10111078aa17" }, 
 		{ "CommunityToolkit.Diagnostics", "7e93ee82-992d-4cc7-8701-ed812e5ea153" }, 
 		{ "CommunityToolkit.Maui", "d956d66e-ddad-414f-ba75-42fcceefa45c" }, 
