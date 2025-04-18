@@ -1,6 +1,9 @@
 ﻿using Android.App;
 using Android.Content.PM;
+using Android.Content.Res;
 using Android.OS;
+using Android.Views;
+using Android.Widget;
 
 namespace Youth;
 
@@ -29,7 +32,7 @@ public class MainActivity : MauiAppCompatActivity
         {
             if (uiMode == UiMode.NightYes)
             {
-                int colorResourceId = Resource.Color.colorPrimaryDark;
+                int colorResourceId = Resource.Color.primary_material_dark;
 
                 Android.Graphics.Color androidColor = Android.Graphics.Color.ParseColor(
                     Platform.CurrentActivity.Resources.GetString(colorResourceId));
@@ -38,7 +41,7 @@ public class MainActivity : MauiAppCompatActivity
             }
             else
             {
-                int colorResourceId = Resource.Color.colorPrimaryLight;
+                int colorResourceId = Resource.Color.primary_material_light;
 
                 Android.Graphics.Color androidColor = Android.Graphics.Color.ParseColor(
                     Platform.CurrentActivity.Resources.GetString(colorResourceId));
